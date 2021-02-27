@@ -5,4 +5,4 @@ name = "zeeshan"
 version = "RStudion - In writing"
 
 print(name) 
-print("These lines have been written in RStudio") 
+print("These lines have been written in RStudio")
